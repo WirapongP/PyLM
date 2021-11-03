@@ -1,5 +1,5 @@
 # PyLM
-Detect lateral movement from windows security event logs (.evtx) file 
+Detect lateral movement from windows security event logs (Security.evtx) file 
 
 Main Features
 - Detect lateral movement from event id : 4624, 4648, 4688, 5140, 5145
@@ -20,7 +20,7 @@ Main Features
 # Usage
 > python3 pylm.py [evtx]
 
-evtx : Path to the Windows security event log file (.EVTX)
+evtx : Path to the Windows security event log file (Security.evtx)
 
 # Output
 Result as excel file (LMresult.xlsx)
