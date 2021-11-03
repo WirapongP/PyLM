@@ -1,0 +1,8 @@
+evtx
+lxml
+python-magic-bin==0.4.14
+progressbar2
+pandas
+argparse
+Jinja2
+xlsxwriter
