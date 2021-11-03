@@ -9,7 +9,7 @@ Main Features
 
 # Requirement
 - python3
-- python libraries that includes : evtx, lxml, python-magic, progressbar, pandas 
+- python libraries that includes : evtx, lxml, python-magic-bin, progressbar2, pandas, argparse, Jinja2, xlsxwriter 
 
 Install libraries with command
 > pip install -r requirements.txt
