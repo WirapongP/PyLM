@@ -11,7 +11,10 @@ Main Features
 - python3
 - python libraries that includes : evtx, lxml, python-magic-bin, progressbar2, pandas, argparse, Jinja2, xlsxwriter 
 
-Install libraries with command
+# Install
+1. Clone
+> git clone https://github.com/WirapongP/PyLM
+2. Install required libraries with
 > pip install -r requirements.txt
 
 # Usage
