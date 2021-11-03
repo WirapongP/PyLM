@@ -8,7 +8,7 @@ Main Features
 - Result as Excel file
 
 # Requirement
-- python3
+- python3.7+
 - python libraries that includes : evtx, lxml, python-magic-bin, progressbar2, pandas, argparse, Jinja2, xlsxwriter 
 
 # Install
